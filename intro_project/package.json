@@ -1,0 +1,19 @@
+{
+  "name": "javascript_backend_app",
+  "version": "1.0.0",
+  "description": "a basic app for js backend learning.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Khushi Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
+
